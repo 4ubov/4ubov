@@ -8,8 +8,8 @@ I have around 5 years of experience in programming. For the past two years, I ha
 
 *   🌍  I'm based in CIS
 *   🖥️  See my portfolio at [PortfolioTitle](http://test.com)
-*   ✉️  You can contact me at TG [@Chbv_id](https://t.me/chbv_id)###
-*   ✉️  You can contact me at [4ubov.work@gmail.com](mailto:4ubov.work@gmail.com)### Skills 
+*   ✉️  You can contact me by TG [@Chbv_id](https://t.me/chbv_id)
+*   ✉️  You can contact me by Mail [4ubov.work@gmail.com](mailto:4ubov.work@gmail.com)### Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
