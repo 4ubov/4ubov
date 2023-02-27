@@ -4,7 +4,7 @@ Hi 👋 My name is Ilya Chubov
 Java Backend Developer
 ----------------------
 
-I have around 5 years of experience in programming. For the past two years, I have been actively studying Java Backend and deepening my knowledge in this field. I have tried many directions in the IT industry, but I have chosen Backend development. I am committed to professional growth and always ready to learn new technologies and tools that will help me become a better developer.
+I have around 4 years of non-commercial experience in programming. For the past two years, I have been actively studying Java Backend and deepening my knowledge in this field. I have tried many directions in the IT industry, but I have chosen Backend development. I am committed to professional growth and always ready to learn new technologies and tools that will help me become a better developer.
 
 * 🌍  I'm based in CIS
 * 🖥️  See my portfolio at [PortfolioTitle](http://test.com)
