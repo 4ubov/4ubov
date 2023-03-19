@@ -9,7 +9,7 @@ I have around 4 years of non-commercial experience in programming. For the past 
 * 🌍  I'm based in CIS
 * 🖥️  See my portfolio at [PortfolioTitle](http://test.com)
 * ✉️  You can contact me by TG [@Chbv_id](https://t.me/chbv_id)
-* ✉️  You can contact me by Mail [4ubov.work@gmail.com](mailto:4ubov.work@gmail.com)
+* ✉️  You can contact me by Email [4ubov.work@gmail.com](mailto:4ubov.work@gmail.com)
 
 ### Skills
 
