@@ -27,8 +27,4 @@ I have around 4 years of non-commercial experience in programming. For the past 
 </p>
 
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/4ubov"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=4ubov&bg_color=22272e&color=ffffff&line=0891b2&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
